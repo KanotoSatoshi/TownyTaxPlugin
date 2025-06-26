@@ -1,0 +1,8 @@
+
+name: TownyTaxPlugin
+main: me.kanoto.townytax.TownyTaxPlugin
+version: 1.0
+api-version: 1.16
+commands:
+  cekpajak:
+    description: Mengecek nama kota dari database Towny
